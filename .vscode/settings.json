@@ -1,0 +1,7 @@
+{
+    "Lua.diagnostics.globals": [
+        "set_policy_freq_offset",
+        "unload_fas",
+        "load_fas"
+    ]
+}
